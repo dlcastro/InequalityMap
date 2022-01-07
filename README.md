@@ -1,2 +1,2 @@
 # InequalityMap
-Inequality brazillian map using Educational Socioeconomic Indicator
+Inequality Brazilian map using Educational Socioeconomic Indicator
